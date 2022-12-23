@@ -9,7 +9,7 @@ package lab7;
 
 import java.util.Scanner;
 
-public class zadanie {
+public class Zadanie_27 {
     public static void main(String[] args) {
         System.out.println("Введите x: ");
         float x = (new Scanner(System.in)).nextFloat();

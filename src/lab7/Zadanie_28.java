@@ -1,7 +1,7 @@
 package lab7;
 import java.util.Scanner;
 
-public class Poslendee {
+public class Zadanie_28 {
     public static void main(String[] args) {
         final double ROUBLES_PER_DOLLAR = 72.12;
         double cursCD, rubles;

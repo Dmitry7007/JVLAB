@@ -4,10 +4,9 @@ import java.util.Scanner;
 public class Zadanie_10 {
     public static void main(String[] args) {
         System.out.println("Введите X: ");
-        float x = (new Scanner(System.in)).nextFloat();
+        int x = (new Scanner(System.in)).nextInt();
         System.out.println("Введите Y: ");
-        float y = (new Scanner(System.in)).nextFloat();
-        float z = 0;
+        int y = (new Scanner(System.in)).nextInt();
         if (x > 2)
             if (y > 2) {
                 int z = x + y;

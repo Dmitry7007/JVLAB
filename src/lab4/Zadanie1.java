@@ -3,7 +3,7 @@ import static java.lang.Math.pow;
 import java.util.Scanner;
 import  java.text.DecimalFormat;
 
-public class Zadanie_1 {
+public class Zadanie1 {
    static DecimalFormat df = new DecimalFormat();
    public static void work (long n) {
        boolean z = false;

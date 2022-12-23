@@ -2,7 +2,7 @@ package lab4;
 
 import java.util.Scanner;
 
-public class Zadanie_2 {
+public class Zadanie2 {
    static double y = 0;
    public static void main(String[] args) {
        System.out.println("Введите знаменатель последнего слагаемого суммы: ");

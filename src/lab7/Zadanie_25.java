@@ -6,7 +6,7 @@ package lab7;
   true || true && false
   true && true || false
 */
-public class Zad {
+public class Zadanie_25 {
     public static void main(String[] args) {
         System.out.println(true || true && false);
         System.out.println(true && true || false);
